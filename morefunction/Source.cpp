@@ -64,6 +64,7 @@ int main() {
 	showArray(a1, 5);
 	cout << " массив double: \n";
 	showArray(a2, 4);
+	showArray(a2, 4);
 
 
 
